@@ -11,4 +11,9 @@ https://github.com/anmol18888/jupyter.notebook/blob/master/3rd%20learning%20note
 hey there guys! adding another jupyter notebook and this time the topic is dictionaries and sets hope you like it. here is the link to it https://github.com/anmol18888/jupyter.notebook/blob/master/4th%20learning%20notebook.ipynb
 
 
+link to the conditions and branching notebook https://github.com/anmol18888/jupyter.notebook/blob/master/5th%20learning%20notebook.ipynb
+
+and here is the link to the notebook about functions https://github.com/anmol18888/jupyter.notebook/blob/master/6th%20learning%20notebook.ipynb
+
+
 hope you like my work it! if you do, please give it a star :)
