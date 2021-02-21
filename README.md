@@ -16,4 +16,8 @@ link to the conditions and branching notebook https://github.com/anmol18888/jupy
 and here is the link to the notebook about functions https://github.com/anmol18888/jupyter.notebook/blob/master/6th%20learning%20notebook.ipynb
 
 
+hey gus here is the link to the notebook in which i learned how to open various files within python. https://github.com/anmol18888/jupyter.notebook/blob/master/7th%20learning%20notebook.ipynb
+
+and here is the link to the notebook in which i learned how to use pandas in python. https://github.com/anmol18888/jupyter.notebook/blob/master/8th%20learning%20notebook.ipynb
+
 hope you like my work it! if you do, please give it a star :)
