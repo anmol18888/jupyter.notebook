@@ -38,6 +38,9 @@ here is the link to the notebook about the API's.
 https://github.com/anmol18888/jupyter.notebook/blob/master/notebooks/11th%20learning%20notebook.ipynb
 
 
+here is the new link to the notebook in which i tried WEBSCRAPING.
+https://github.com/anmol18888/jupyter.notebook/blob/master/notebooks/12th%20learning%20notebook.ipynb
+
 
 and here is the link to the csv that i made and used most of the time to in 8th notebook to make and operate and do operations in it. https://github.com/anmol18888/jupyter.notebook/blob/master/BTS_songs.csv 
 
