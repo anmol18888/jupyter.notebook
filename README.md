@@ -42,6 +42,10 @@ here is the new link to the notebook in which i tried WEBSCRAPING.
 https://github.com/anmol18888/jupyter.notebook/blob/master/notebooks/12th%20learning%20notebook.ipynb
 
 
+here is the link to a new notebook in which i learned how to install and use yfinance in pyhton on jupyter notebooks.
+https://github.com/anmol18888/jupyter.notebook/blob/master/notebooks/13th%20learning%20notebook.ipynb
+
+
 and here is the link to the csv that i made and used most of the time to in 8th notebook to make and operate and do operations in it. https://github.com/anmol18888/jupyter.notebook/blob/master/BTS_songs.csv 
 
 
