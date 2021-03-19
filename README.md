@@ -46,6 +46,10 @@ here is the link to a new notebook in which i learned how to install and use yfi
 https://github.com/anmol18888/jupyter.notebook/blob/master/notebooks/13th%20learning%20notebook.ipynb
 
 
+hey guys this is the notebook in which i had my final assignment which was regarding the webscraping and how to use yfinance.
+https://github.com/anmol18888/jupyter.notebook/blob/master/notebooks/Python%20Notebook.ipynb
+
+
 and here is the link to the csv that i made and used most of the time to in 8th notebook to make and operate and do operations in it. https://github.com/anmol18888/jupyter.notebook/blob/master/BTS_songs.csv 
 
 
